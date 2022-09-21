@@ -1,5 +1,5 @@
 # Site settings
-title:          efcanela blog
+title:          efcanela
 description:    "Blog"
 url:            "https://efcanela.xyz"
 
@@ -8,7 +8,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         efcanela
+  name:         Esteban Canela
   url:          https://efcanela.xyz
   email:        estebancanela@gmail.com
 
