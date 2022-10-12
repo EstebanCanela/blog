@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "About me"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi everyone ! I'm Esteban Canela.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I'm a Technical Backend Lead at Pomelo. I've worked in the core product, Payment Processor, in which I've led a team building the integration with Mastercard Network and process their messages.
+In this project we've used a big number of technologies but mainly Golang, Java and many features from AWS.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+I enjoy to solve hard problems of any type, especially those are related to distributed systems and web3.
 
-Thanks for reading!
+Before Pomelo, I worked in Naranja X, one of the most important neobank in Argentina with 2M of customers. 
+In this company I spent my time working in projects like:
+* Home: Our main objective was build a Home that response really quickly to our users. For this requirement I designed the new architecture, developed, tested and monitored those backend microservices using a modern tech stack like Node.js, Express, Golang, Datadog, Redis, PostgresSQL.
+* Service payment: I designed the architecture and built a core of services that helps users pay their bills. I developed the integration with Western Union API focused in scalability and resilience. Those microservices scaled to 2M of bills payed per month.
